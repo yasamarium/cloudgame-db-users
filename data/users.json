@@ -1,0 +1,18 @@
+[
+  {
+    "user_id": "guest_default",
+    "username": "GuestPlayer",
+    "created_at": "2026-09-21T10:00:00Z",
+    "last_login": "2026-09-21T10:00:00Z",
+    "playtime_minutes": 0,
+    "favorite_games": [
+      "cloudgame-supertux",
+      "cloudgame-doom"
+    ],
+    "game_saves": {},
+    "settings": {
+      "stream_quality": "high",
+      "control_mode": "keyboard_mouse"
+    }
+  }
+]
