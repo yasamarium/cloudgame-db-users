@@ -1,0 +1,9 @@
+[
+  {
+    "slug": "welcome-paste",
+    "title": "Welcome to AS Cloud Pastebin",
+    "lang": "javascript",
+    "content": "// AS Cloud Web Services Pastebin\nconsole.log(\"Hello from Cloud Services!\");",
+    "created_at": "2026-09-21T10:00:00Z"
+  }
+]
